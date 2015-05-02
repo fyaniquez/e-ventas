@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile c:\users\favio\ducuments\github\plugins\versions-maven-plugin-2.3.jar -DgroupId=org.codehaus.mojo -DartifactId=versions-maven-plugin -Dversion=2.2 -Dpackaging=jar -DgeneratePom=true

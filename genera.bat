@@ -1,1 +1,0 @@
-mvn archetype:generate -DarchetypeGroupId=com.google.appengine.archetypes -DarchetypeArtifactId=appengine-skeleton-archetype -DarchetypeVersion=2.0.0 -DgroupId=com.eventas.server -DartifactId=server -Dversion=0.1 -Dpackage=com.eventas

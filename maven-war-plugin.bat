@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile c:\users\favio\ducuments\github\plugins\maven-war-plugin-2.6.jar -DgroupId=org.apache.maven.plugins -DartifactId=maven-war-plugin -Dversion=2.6 -Dpackaging=jar -DgeneratePom=true
