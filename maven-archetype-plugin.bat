@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile c:\users\favio\ducuments\github\plugins\maven-archetype-plugin-2.3.jar -DgroupId=org.apache.maven.plugins -DartifactId=maven-archetype-plugin -Dversion=2.3 -Dpackaging=jar -DgeneratePom=true
